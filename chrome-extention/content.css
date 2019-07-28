@@ -1,0 +1,30 @@
+.noticeCountBox {
+    position: relative;
+    background: #dedede;
+}
+
+.buttonBox {
+    padding:0 2px;
+}
+
+.noticeTemplate {
+    margin: 5px 0;
+    border: 0;
+}
+
+.noticeValues {
+    padding: 0 1px 5px 1px;
+}
+
+.leftCount, .rightCount {
+    border: 0;
+}
+
+.noticePreview {
+    margin-top: 5px;
+    border: 5px solid #ffdc00;
+}
+
+.mt3 {
+    margin-top: 3px;
+}

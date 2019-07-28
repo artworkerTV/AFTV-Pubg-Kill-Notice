@@ -1,0 +1,36 @@
+{
+    "manifest_version": 2,
+    "name": "AFTV-Pubg-Kill-Notice",
+    "description": "아프리카TV 배틀그라운드 자동 킬 공지 카운터",
+    "version": "1.0",
+    "icons": {
+        "16": "img/icon16.png",
+        "48": "img/icon48.png",
+        "128": "img/icon128.png"
+    },
+    "background": {
+        "scripts": ["vendor/jquery-3.1.0.min.js", "background.js"],
+        "persistent": false
+    },
+    "web_accessible_resources": [
+        "img/icon128.png"
+    ],
+    "browser_action": {
+        "default_icon": {
+            "16": "img/icon16.png",
+            "48": "img/icon48.png",
+            "128": "img/icon128.png"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": ["http://play.afreecatv.com/*"],
+            "js": ["vendor/jquery-3.1.0.min.js", "content.js"],
+            "css": ["bootstrap.min.css", "content.css"]
+        }
+    ],
+    "permissions": [
+        "http://*/*",
+        "https://*/*"
+    ]
+}
