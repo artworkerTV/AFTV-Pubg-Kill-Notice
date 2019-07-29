@@ -3,7 +3,7 @@
 아프리카TV 배틀그라운드 자동 킬 공지 카운터
 
  ----
- 
+
 # 시작
 
 고생이 많은 배틀그라운드 아프리카TV 매니저를 위한 확장 프로그램 입니다.
@@ -19,7 +19,7 @@
  5. **압축해제된 확장 프로그램을 로드합니다.** 를 클릭한 후 압축해제한 폴더안에 **chrome-extention** 폴더를 선택해 주세요.
 	  ![image1-2](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image1-2.jpg?raw=true)
  6. 설치가 완료 되었습니다.
-	  ![image1-3](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image1-3.jpg?raw=true)
+    - ![image1-3](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image1-3.jpg?raw=true)
 
 ## 사용법
 
@@ -27,7 +27,7 @@
  - 채팅창 위에 카운터 프로그램이 표시 됩니다.
 	  ![image2-1](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image2-1.jpg?raw=true)
  - 노랑색 박스에 기본 문구를 입력 합니다.
- - 초록색 좌우측 박스에 기본값을 입력 합니다. 
+ - 초록색 좌우측 박스에 기본값을 입력 합니다.
 	 - 기본값은 0 입니다.
 	 - 화면을 새로고침하면 기본값이 0으로 초기화 됩니다. 필요한 경우 기본값을 변경 할 수 있습니다.
  - 좌측 +, - 우측 +, - 버튼으로 카운팅을 진행 합니다.
@@ -38,4 +38,4 @@
 
 ## 기타 문의
 
- - 누에TV - http://afreecatv.com/artworker
+ - 조티비 - http://afreecatv.com/artworker
