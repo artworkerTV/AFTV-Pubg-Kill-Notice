@@ -12,12 +12,12 @@
 # 설치방법
 
  1. 소스 코드를 다운로드 받아 주세요.
-	  ![image1-1](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image1-1.jpg?raw=true)
+	- ![image1-1](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image1-1.jpg?raw=true)
  2. 다운로드 받은 소스를 압축을 풀어 주세요.
  3. 구글 크롬 브라우저를 실행 한 후 주소창에 chrome://extensions 를 입력 후 이동해 주세요.
  4. 우측상단에 개발자 모드를 선택해 주세요.
  5. **압축해제된 확장 프로그램을 로드합니다.** 를 클릭한 후 압축해제한 폴더안에 **chrome-extention** 폴더를 선택해 주세요.
-	  ![image1-2](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image1-2.jpg?raw=true)
+	- ![image1-2](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image1-2.jpg?raw=true)
  6. 설치가 완료 되었습니다.
     - ![image1-3](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image1-3.jpg?raw=true)
 
@@ -25,7 +25,7 @@
 
  - 아프리카 라이브 방송 페이지에 접속합니다.
  - 채팅창 위에 카운터 프로그램이 표시 됩니다.
-	  ![image2-1](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image2-1.jpg?raw=true)
+	- ![image2-1](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image2-1.jpg?raw=true)
  - 노랑색 박스에 기본 문구를 입력 합니다.
  - 초록색 좌우측 박스에 기본값을 입력 합니다.
 	 - 기본값은 0 입니다.
