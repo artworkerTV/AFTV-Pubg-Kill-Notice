@@ -6,7 +6,7 @@
 
 # 시작
 
-고생이 많은 배틀그라운드 아프리카TV 매니저를 위한 확장 프로그램 입니다.
+고생이 많은 배틀그라운드 아프리카TV 매니저님들을 위한 확장 프로그램 입니다.
 배틀그라운드 킬 포인트 매치 카운팅을 단순화 하고 시각화 하여 편리하게 킬 공지를 변경할 수 있도록 제작 하였습니다.
 
 # 설치방법
@@ -34,7 +34,7 @@
  - 노랑색 테두리는 미리보기 입니다.
  - 자동 보내기 체크 박스를 체크하면 +, - 카운팅시 자동으로 공지 메세지를 전송 합니다.
  - 전송 버튼으로 현재 킬 포인트 값으로 공지 메세지를 전송합니다.
-	  ![image2-2](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image2-2.jpg?raw=true)
+ 	- ![image2-2](https://github.com/artworkerTV/AFTV-Pubg-Kill-Notice/blob/master/docs/images/image2-2.jpg?raw=true)
 
 ## 기타 문의
 
