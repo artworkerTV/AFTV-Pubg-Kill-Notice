@@ -25,10 +25,10 @@ function NoticeCounter() {
                 </div> \
                 <div class="row"> \
                     <div class="col-6 noticeValues"> \
-                        <input class="col-12 leftCount text-center bg-success" type="text" value="0" value="{L} 팀 카운트 입력"/> \
+                        <input class="col-12 leftCount text-center" type="text" value="0" title="{L} 팀 카운트 입력"/> \
                     </div> \
                     <div class="col-6 noticeValues"> \
-                        <input class="col-12 rightCount text-center bg-primary" type="text" value="0" value="{R} 팀 카운트 입력"/> \
+                        <input class="col-12 rightCount text-center" type="text" value="0" title="{R} 팀 카운트 입력"/> \
                     </div> \
                 </div> \
                 <div class="row"> \
